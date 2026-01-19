@@ -56,7 +56,7 @@ class _HomeState extends State<Home> {
             const Padding(
               padding: EdgeInsets.fromLTRB(20, 20, 20, 0),
               child: Text(
-                'Todos',
+                'TodoList',
                 style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
